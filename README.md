@@ -6,5 +6,5 @@
   SHA-1, SHA-2
  
 ### [実行方法] ###
-  ./crypt_app
+  ./crypt_qt
   
